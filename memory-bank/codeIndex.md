@@ -13,14 +13,14 @@
 ### com.kata.FooTest
 - **Location**: src/test/java/com/kata/FooTest.java
 - **Purpose**: Unit tests for the Foo class
-- **Framework**: JUnit with Hamcrest matchers
+- **Framework**: JUnit with AssertJ assertions
 - **Test Methods**:
   - `testSayHello()`: Verifies that sayHello() returns "Hello"
-- **Dependencies**: JUnit, Hamcrest
+- **Dependencies**: JUnit, AssertJ
 
 ## Key Patterns
 - Simple method implementation with corresponding test
-- Use of Hamcrest matchers for assertions (assertThat with is matcher)
+- Use of AssertJ fluent assertions (assertThat with isEqualTo)
 - Standard Maven project structure
 
 ## Current Implementation Notes

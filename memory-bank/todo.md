@@ -10,6 +10,7 @@
 - [x] Set up basic Foo class with sayHello method
 - [x] Create corresponding unit test for sayHello
 - [x] Verify test passes with current implementation
+- [x] Migrate from Hamcrest to AssertJ assertion library
 
 ## Next Steps
 - [ ] Identify next feature to implement (e.g., parameterized greeting, multiple methods)

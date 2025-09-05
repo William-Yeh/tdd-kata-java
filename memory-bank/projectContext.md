@@ -16,7 +16,7 @@ This is a Test-Driven Development (TDD) kata project written in Java using Maven
 - **Language**: Java
 - **Build Tool**: Maven
 - **Testing Framework**: JUnit 5
-- **Assertion Library**: Hamcrest
+- **Assertion Library**: AssertJ
 
 ## Current State
 - Basic project structure is set up
